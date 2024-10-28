@@ -1,0 +1,92 @@
+<Employees>
+  <Employee>
+    <EmployeeID>1001</EmployeeID>
+    <Name>John Doe</Name>
+    <Department>Finance</Department>
+    <HoursWorked>160</HoursWorked>
+    <DaysWorked>20</DaysWorked>
+    <Salary>6000 zl</Salary>
+    <Email>merouanegadouche@gmail.com</Email>
+  </Employee>
+  <Employee>
+    <EmployeeID>1002</EmployeeID>
+    <Name>Jane Smith</Name>
+    <Department>Human Resources</Department>
+    <HoursWorked>160</HoursWorked>
+    <DaysWorked>20</DaysWorked>
+    <Salary>5500 zl</Salary>
+    <Email>roddsrod@gmail.com</Email>
+  </Employee>
+  <Employee>
+    <EmployeeID>1003</EmployeeID>
+    <Name>Robert Johnson</Name>
+    <Department>IT</Department>
+    <HoursWorked>170</HoursWorked>
+    <DaysWorked>21</DaysWorked>
+    <Salary>8000 zl</Salary>
+    <Email>merouane.gadouche@dsm-firmenich.com</Email>
+  </Employee>
+  <Employee>
+    <EmployeeID>1004</EmployeeID>
+    <Name>Emily Davis</Name>
+    <Department>Marketing</Department>
+    <HoursWorked>150</HoursWorked>
+    <DaysWorked>18</DaysWorked>
+    <Salary>7000 zl</Salary>
+    <Email>merouanegadouche@gmail.com</Email>
+  </Employee>
+  <Employee>
+    <EmployeeID>1005</EmployeeID>
+    <Name>Michael Brown</Name>
+    <Department>Sales</Department>
+    <HoursWorked>165</HoursWorked>
+    <DaysWorked>19</DaysWorked>
+    <Salary>7500 zl</Salary>
+    <Email>roddsrod@gmail.com</Email>
+  </Employee>
+  <Employee>
+    <EmployeeID>1006</EmployeeID>
+    <Name>Linda Wilson</Name>
+    <Department>Operations</Department>
+    <HoursWorked>170</HoursWorked>
+    <DaysWorked>22</DaysWorked>
+    <Salary>6800 zl</Salary>
+    <Email>merouane.gadouche@dsm-firmenich.com</Email>
+  </Employee>
+  <Employee>
+    <EmployeeID>1007</EmployeeID>
+    <Name>David Lee</Name>
+    <Department>Finance</Department>
+    <HoursWorked>160</HoursWorked>
+    <DaysWorked>20</DaysWorked>
+    <Salary>6100 zl</Salary>
+    <Email>merouanegadouche@gmail.com</Email>
+  </Employee>
+  <Employee>
+    <EmployeeID>1008</EmployeeID>
+    <Name>Sarah White</Name>
+    <Department>Human Resources</Department>
+    <HoursWorked>155</HoursWorked>
+    <DaysWorked>19</DaysWorked>
+    <Salary>5400 zl</Salary>
+    <Email>roddsrod@gmail.com</Email>
+  </Employee>
+  <Employee>
+    <EmployeeID>1009</EmployeeID>
+    <Name>James Clark</Name>
+    <Department>IT</Department>
+    <HoursWorked>170</HoursWorked>
+    <DaysWorked>21</DaysWorked>
+    <Salary>8200 zl</Salary>
+    <Email>merouane.gadouche@dsm-firmenich.com</Email>
+  </Employee>
+  <Employee>
+    <EmployeeID>1010</EmployeeID>
+    <Name>Patricia Lewis</Name>
+    <Department>Marketing</Department>
+    <HoursWorked>160</HoursWorked>
+    <DaysWorked>20</DaysWorked>
+    <Salary>7200 zl</Salary>
+    <Email>merouanegadouche@gmail.com</Email>
+  </Employee>
+</Employees>
