@@ -1,0 +1,86 @@
+<Customers>
+    <Customer>
+        <CustomerName>John Doe</CustomerName>
+        <Company>HCL</Company>
+        <BankName>HDFC</BankName>
+        <Salary>50000</Salary>
+    </Customer>
+    <Customer>
+        <CustomerName>Jane Smith</CustomerName>
+        <Company>Info</Company>
+        <BankName>ICICI</BankName>
+        <Salary>75000</Salary>
+    </Customer>
+    <Customer>
+        <CustomerName>Alice Brown</CustomerName>
+        <Company>TCS</Company>
+        <BankName>AXIS</BankName>
+        <Salary>60000</Salary>
+    </Customer>
+    <Customer>
+        <CustomerName>Bob Johnson</CustomerName>
+        <Company>Infosys</Company>
+        <BankName>HDFC</BankName>
+        <Salary>55000</Salary>
+    </Customer>
+    <Customer>
+        <CustomerName>Charlie Lee</CustomerName>
+        <Company>IBM</Company>
+        <BankName>ICICI</BankName>
+        <Salary>40000</Salary>
+    </Customer>
+    <Customer>
+        <CustomerName>Daniel Kim</CustomerName>
+        <Company>TCS</Company>
+        <BankName>HDFC</BankName>
+        <Salary>85000</Salary>
+    </Customer>
+    <Customer>
+        <CustomerName>Emily Zhang</CustomerName>
+        <Company>Google</Company>
+        <BankName>AXIS</BankName>
+        <Salary>70000</Salary>
+    </Customer>
+    <Customer>
+        <CustomerName>Frank White</CustomerName>
+        <Company>HCL</Company>
+        <BankName>ICICI</BankName>
+        <Salary>52000</Salary>
+    </Customer>
+    <Customer>
+        <CustomerName>Grace Black</CustomerName>
+        <Company>Wipro</Company>
+        <BankName>HDFC</BankName>
+        <Salary>48000</Salary>
+    </Customer>
+    <Customer>
+        <CustomerName>Henry Green</CustomerName>
+        <Company>Microsoft</Company>
+        <BankName>ICICI</BankName>
+        <Salary>67000</Salary>
+    </Customer>
+    <Customer>
+        <CustomerName>Irene Blue</CustomerName>
+        <Company>HCL</Company>
+        <BankName>AXIS</BankName>
+        <Salary>53000</Salary>
+    </Customer>
+    <Customer>
+        <CustomerName>Jack Brown</CustomerName>
+        <Company>Amazon</Company>
+        <BankName>HDFC</BankName>
+        <Salary>60000</Salary>
+    </Customer>
+    <Customer>
+        <CustomerName>Kathy King</CustomerName>
+        <Company>TCS</Company>
+        <BankName>ICICI</BankName>
+        <Salary>58000</Salary>
+    </Customer>
+    <Customer>
+        <CustomerName>Larry Wong</CustomerName>
+        <Company>Google</Company>
+        <BankName>AXIS</BankName>
+        <Salary>62000</Salary>
+    </Customer>
+</Customers>
